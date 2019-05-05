@@ -1,4 +1,4 @@
-package com.solutionia.restmassenger.rest_demo_massenger;
+package com.solutionia.restmessenger;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
