@@ -1,4 +1,4 @@
-package com.solutionia.restmessenger.message;
+package com.solutionia.restmessenger.resource;
 
 import java.util.List;
 
